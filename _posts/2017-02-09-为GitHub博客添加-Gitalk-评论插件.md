@@ -4,7 +4,7 @@ title:      为博客添加 Gitalk 评论插件
 subtitle:   为GitHub个人博客添加 Gitalk 评论插件
 date:       2017-02-09
 author:     Terence
-header-img: img/post-bg-github.jpg
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - Blog
