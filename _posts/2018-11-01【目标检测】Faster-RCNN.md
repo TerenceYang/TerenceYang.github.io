@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      【目标检测】Faster-RCNN
+title:     【目标检测】Faster-RCNN
 subtitle:   Faster RCNN算法详解
 date:       2018-11-01
 author:     Terence
@@ -16,7 +16,7 @@ tags:
 # 思想
 从RCNN到fast RCNN，再到本文的faster RCNN，目标检测的四个基本步骤（候选区域生成，特征提取，分类，位置精修）终于被统一到一个深度网络框架之内。所有计算没有重复，完全在GPU中完成，大大提高了运行速度。
 
-# 候选区域生成网络Region Proposal Networks（RPN）
+# 候选区域生成网络Region ProposalNetworks（RPN）
 
 ### RPN网络结构解析
 
